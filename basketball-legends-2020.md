@@ -5,9 +5,9 @@ Enjoy serious hoops action with Basketball Legends 2020! This exciting online ba
 
 
 
-[![image](https://github.com/user-attachments/assets/bfabac21-bc2b-4b76-9b86-106bef6d183d)](https://online-[generator.github.io/unblockedgames/basketball-legends-2020-unblocked/)](https://online-generator.github.io/unblockedgames/basketball-legends-2020-unblocked/)
+[![image](https://github.com/user-attachments/assets/bfabac21-bc2b-4b76-9b86-106bef6d183d)](https://online-[generator.github.io/unblockedgames/basketball-legends-2020-unblocked/)]
 
-![image](https://github.com/user-attachments/assets/46b5c548-09e7-449e-aec9-4f010778ae68)
+[![image](https://github.com/user-attachments/assets/46b5c548-09e7-449e-aec9-4f010778ae68)](https://online-generator.github.io/unblockedgames/basketball-legends-2020-unblocked/)
 
 Are you ready to feel the thrill of the court? Then **Basketball Legends 2020** is the game for you! This awesome online basketball game lets you experience the fast-paced action of a real basketball match, all from the comfort of your computer. 
 
