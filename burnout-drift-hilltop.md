@@ -10,6 +10,8 @@ tags: [mobile, car, drift]
 embedUrl: "https://ubg77.github.io/edit/burnout-drift-hilltop/"
 ---
 
+![image](https://github.com/user-attachments/assets/19ed50c0-c344-4b23-86ff-3e43f8d22de7)
+
 **hy you car driver?** Burnout Drift Hilltop is a game that puts you in the driver's seat for an exhilarating driving.  This game offers a thrilling challenge that will keep you coming back for more. 
 
 **What Makes Burnout Drift Hilltop So Special?**
