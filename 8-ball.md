@@ -10,6 +10,8 @@ tags: [sport]
 embedUrl: "https://8ballpoolunblocked.github.io/"
 ---
 
+![image](https://github.com/user-attachments/assets/47fa4b20-cc03-4983-b82a-926c3f4be8ea)
+
 **Introduction:**
 
 Are you craving some pool action but stuck at school?  Don't worry, we've got you covered! At Classroom6x, you can play **unblocked games** like **8 ball pool** online, right in your browser! This means no downloads, no hassles, just pure pool fun!
