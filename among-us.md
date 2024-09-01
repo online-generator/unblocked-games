@@ -11,6 +11,8 @@ embedUrl: "https://webglmath.github.io/among-us/"
 Keywords: Among Us, unblocked games, Among Us unblocked, Among Us game online, Among Us download, Among Us free, Now.gg, Among Us free play, Among Us gameplay, Among Us full game, Among Us game vui, Among Us pc, Action Games, ActionGames, Action Games Pc, ActionGamesPc, Action Games Online, ActionGamesOnline, Action Games Free, ActionGamesFree, Classroom6x.
 ---
 
+![image](https://github.com/user-attachments/assets/2b201851-ef2a-46b0-90a0-a0c25ddd9beb)
+
 **Are you ready for some space-themed action and a whole lot of fun?** Then buckle up, because  **Among Us** is the perfect game for you!  This wildly popular online game is all about teamwork, suspicion, and a whole lot of deception. 
 
 **What is Among Us?**
