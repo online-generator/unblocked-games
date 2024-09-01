@@ -11,6 +11,8 @@ embedUrl: "https://3dbowling.github.io/"
 Keywords: 3D game, 3D bowling, 3d bowling Game, unblocked games, classroom6x, bowling 3d model, 3d bowling alley, 3d bowling free, lagged 3d bowling, bowling g, 3d bowling rules, how to play bowling
 ---
 
+![image](https://github.com/user-attachments/assets/fbd40a9a-1d80-44d0-ad1b-87d8ba1602d1)
+
 Are you ready to step onto the lanes and show off your bowling skills? **3D Bowling** is an exciting unblocked game that lets you experience the thrill of the alley, all from your computer! This game is perfect for a quick break during class, a fun challenge with friends, or just some solo relaxation.
 
 **Why You'll Love 3D Bowling:**
