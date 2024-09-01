@@ -10,6 +10,8 @@ tags: [adventure, mobile]
 embedUrl: "https://henrystickmanunblocked.github.io/breaking-the-bank/"
 ---
 
+![image](https://github.com/user-attachments/assets/e01e950d-c072-4031-970f-78cf1e162208)
+
 **Break the bank dude… without any real consequences?**  Breaking The Bank is a fun and challenging adventure game that's perfect for when you need a break from the monotony of everyday life.  Think you have what it takes to pull off the ultimate heist?  
 
 **What is Breaking The Bank?** 
