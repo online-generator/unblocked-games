@@ -1,16 +1,11 @@
----
-title: "Buckle Up for Burnout Drift Hilltop: An Unblocked Gaming Ride"
-title: "Burnout-Drift-Hilltop"
-gametitle: "Burnout Drift Hilltop"
-date: 2024-08-29T20:36:33.896646
-description: "Pump your heart with Burnout Drift Hilltop! This unblocked car racing game is perfect for mobile and desktop play, offering  drifts and challenging tracks. Race your way to the top."
-#draft: true
-image: "img/burnout-drift-hilltop/logo.webp"
-tags: [mobile, car, drift]
-embedUrl: "https://ubg77.github.io/edit/burnout-drift-hilltop/"
----
+**Buckle Up for Burnout Drift Hilltop: An Unblocked Gaming Ride**
 
-![image](https://github.com/user-attachments/assets/19ed50c0-c344-4b23-86ff-3e43f8d22de7)
+Pump your heart with Burnout Drift Hilltop! This unblocked car racing game is perfect for mobile and desktop play, offering  drifts and challenging tracks. Race your way to the top.
+
+[![image](https://github.com/user-attachments/assets/bf5498f6-f43d-4400-aa5b-c7ef7b9b8f67)](https://online-generator.github.io/unblockedgames/burnout-drift-hilltop/)
+
+
+[![image](https://github.com/user-attachments/assets/19ed50c0-c344-4b23-86ff-3e43f8d22de7)](https://online-generator.github.io/unblockedgames/burnout-drift-hilltop/)
 
 **hy you car driver?** Burnout Drift Hilltop is a game that puts you in the driver's seat for an exhilarating driving.  This game offers a thrilling challenge that will keep you coming back for more. 
 
