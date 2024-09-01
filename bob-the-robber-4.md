@@ -2,7 +2,7 @@
 
 Steal your way to victory in Bob the Robber 4! This adventure game challenges you to outsmart security systems and grab the loot. Play on your computer or mobile device - it's Unblocked and ready for Classroom6X fun!
 
-[![image](https://github.com/user-attachments/assets/21537266-dc76-49f1-a7cf-00084e6f8845)]((https://online-generator.github.io/unblockedgames/Bob-The-Robber-4-unblocked/)
+[![image](https://github.com/user-attachments/assets/21537266-dc76-49f1-a7cf-00084e6f8845)](https://online-generator.github.io/unblockedgames/Bob-The-Robber-4-unblocked/)
 
 [![image](https://github.com/user-attachments/assets/2c36b303-5385-4d03-96a1-a67f65046f2e)](https://online-generator.github.io/unblockedgames/Bob-The-Robber-4-unblocked/)
 
