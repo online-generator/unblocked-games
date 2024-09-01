@@ -10,6 +10,8 @@ tags: [idle]
 embedUrl: "https://clickerheroesunblocked.github.io/"
 ---
 
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+
 **Are you  bored? **  Do you  have a  lot of  time on your hands?  Well,  guess what?  You're  in luck!  Clicker Heroes is  the  perfect  game for you.  It's  a  clicker game,  which means all you have to do is  click,  click,  click!  But  don't  worry,  it's  not  as  boring as it  sounds.  It's  actually  really fun.  
 
 **So, what is Clicker Heroes? **  It's  like a  mini  RPG.  You  play as a  hero who  goes on  adventures and  fights monsters.  The  catch?  You  don't  actually  control your  hero.  Instead,  you  click!  Each click  deals damage to the  monsters.  And  the  more you  click,  the  faster you  level up. 
