@@ -1,16 +1,9 @@
----
-title: "Unblock Your Fun: Play 8 Ball Pool Online at Classroom6x"
-url: "8-Ball-Unblocked-games"
-gametitle: "8 Ball"
-date: 2024-08-29T20:36:33.896646
-description: "Looking for fun, free online games at school? Classroom6x is your go-to! Play unblocked 8 ball pool online, compete with friends, and enjoy hours of pool action – all without leaving your browser!"
-#draft: true
-image: "img/8-ball/logo.png"
-tags: [sport]
-embedUrl: "https://8ballpoolunblocked.github.io/"
----
+**Unblock Your Fun: Play 8 Ball Pool Online at Classroom6x**
 
-![image](https://github.com/user-attachments/assets/47fa4b20-cc03-4983-b82a-926c3f4be8ea)
+Looking for fun, free online games at school? Classroom6x is your go-to! Play unblocked 8 ball pool online, compete with friends, and enjoy hours of pool action – all without leaving your browser!
+
+[![image](https://github.com/user-attachments/assets/d0a0a08d-1eab-4e83-9746-d1cbf168a676)](https://online-generator.github.io/unblockedgames/8-Ball-Unblocked-games/)
+[![image](https://github.com/user-attachments/assets/47fa4b20-cc03-4983-b82a-926c3f4be8ea)](https://online-generator.github.io/unblockedgames/8-Ball-Unblocked-games/)
 
 **Introduction:**
 
