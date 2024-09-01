@@ -11,6 +11,8 @@ embedUrl: "https://circloounblocked.github.io/"
 Keywords: CircloO Game, puzzle games examples, puzzle game for kids, puzzle definition, jigsaw puzzle, puzzle games for adults, puzzle games wikipedia, puzzle games online, jigsaw puzzle games, best puzzle games, circloo 2, circloo 3, circloo engineering, circloo 1, circloo unblocked, circloo poki, circloo 2 engineering, circloo 2 unblocked, circloo unblocked games 66
 ---
 
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+
 Have you ever felt stuck in class? 😩  Like, you just want to play games, but your teacher is, you know, being a teacher?  Well, guess what!  You're not alone!  Lots of kids feel the same way, and that's why we have **CircloO!**  
 
 CircloO is an amazing **puzzle game**, and the best part?  It's **unblocked!**  That means you can play it **right now**,  even if you're at school!  🤫  
