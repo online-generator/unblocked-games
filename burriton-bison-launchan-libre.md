@@ -11,6 +11,9 @@ embedUrl: "https://burritobison.github.io/"
 Keywords: [Burrito Bison\: Launcha Libre Game, Running Game, Runninggame, Running Games, RunningGames, running game online, running game with keyboard, running game download free, running game meaning, burrito bison\: launcha libre kongregate, burrito bison: launcha libre unblocked, burrito bison: launcha libre online, burrito bison launcha libre snokido, burrito bison: launcha libre wiki, burrito bison play, burrito bison\: launcha libre unblocked hacked, burrito bison\: launcha libre cheats]
 ---
 
+![image](https://github.com/user-attachments/assets/c04bcd3f-ee65-49db-a9c4-de2357d656fc)
+
+
 **Ready for a wild ride?**  Burrito Bison: Launcha Libre is a hilarious and addictive running game that's sure to leave you craving more. Launch our beloved burrito-wielding bison into the sky and watch him soar through the air, battling against an onslaught of delicious, yet dangerous, Mexican treats! 
 
 **What is Burrito Bison: Launcha Libre?**
