@@ -10,6 +10,8 @@ tags: [mobile, car, racing]
 embedUrl: "https://webglmath.github.io/car-rush/"
 ---
 
+![image](https://github.com/user-attachments/assets/5b7e4b1b-b0eb-476d-8fa7-f15059ec7018)
+
 **Ready to race?**  Car Rush is a game that's all about speed and skill.  This unblocked gem is perfect for players of all ages and skill levels, making it a perfect choice for classrooms,  homes, or anywhere you can get your hands on a device! 
 
 **What's the Buzz About Car Rush?**
