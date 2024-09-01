@@ -28,7 +28,7 @@ We've got something for everyone, um, really.  Let's see, we have:
 [Unblocked car Games](https://online-generator.github.io/unblockedgames/car/)
 [Unblocked bike Games](https://online-generator.github.io/unblockedgames/bike/)
 * **Sports Games:**  Sports fan?  You're in the right place!  We've got all the major sports, like basketball, football, soccer, and more!  You can play as your favorite team or even create your own!  ⚽️ 🏀 🏈
-* [Unblocked sports Games](https://online-generator.github.io/unblockedgames/sport/)
+ [Unblocked sports Games](https://online-generator.github.io/unblockedgames/sport/)
 
 * **Kids Games:**  We've got tons of fun and educational games for kids of all ages.  You can learn about animals, letters, numbers, and more while having a blast!  🧒👧 
 
@@ -44,19 +44,11 @@ Well, we're super fun and awesome, duh! 😜  But here are a few more reasons wh
 
 * **We're constantly adding new games.**  So you'll always have something new to play! 
 
-**What Are People Saying About Us?**
 
-"I love Game Land! I can always find a new game to play." - **[Name of person]** on Facebook  💙 
-
-"Game Land is my go-to site for games.  The variety is amazing!" - **[Name of person]** on Twitter 🐦
 
 **So, what are you waiting for?  Come join the fun at Game Land!** 
 
-**P.S.**  Don't forget to check out our awesome blog, [Link to blog]!  We post all sorts of cool gaming news and tips there.
-
-**P.P.S.**  Follow us on Facebook and Twitter for the latest game updates! 
-  
-
+**P.S.**  Don't forget to check out our all games category, [Category](https://online-generator.github.io/unblockedgames/tags/)!  We post all sorts of cool gaming news and tips there.
 
 Have fun, game lovers!  😁 
 
