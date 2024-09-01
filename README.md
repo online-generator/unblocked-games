@@ -22,7 +22,8 @@ We've got something for everyone, um, really.  Let's see, we have:
 
 * **Shooting Games:**  Want to blast some bad guys?  Our shooting games are perfect for letting off some steam.  You can choose from a variety of weapons and fight your way to victory! 🔫 [Unblocked shooting Games](https://online-generator.github.io/unblockedgames/shooting/)
 
-* **Skill Games:**  Want to show off your skills?  Our skill games will let you prove you're the best.  Can you hit the target, solve the puzzle, or beat the clock? 🎯 
+* **Skill Games:**  Want to show off your skills?  Our skill games will let you prove you're the best.  Can you hit the target, solve the puzzle, or beat the clock? 🎯 [Unblocked skill Games](https://online-generator.github.io/unblockedgames/skill/)
+  
 
 * **Car & Bike Games:**  Love speed and racing? We've got all kinds of cool car and bike games.  You can race against your friends, or even drive off-road and explore new areas!  🏎️ 
 [Unblocked car Games](https://online-generator.github.io/unblockedgames/car/)
@@ -48,7 +49,7 @@ Well, we're super fun and awesome, duh! 😜  But here are a few more reasons wh
 
 **So, what are you waiting for?  Come join the fun at Game Land!** 
 
-**P.S.**  Don't forget to check out our all games category, [Category](https://online-generator.github.io/unblockedgames/tags/)!  We post all sorts of cool gaming news and tips there.
+**P.S.**  Don't forget to check out our all games [Category](https://online-generator.github.io/unblockedgames/tags/)!  We post all sorts of cool gaming news and tips there.
 
 Have fun, game lovers!  😁 
 
