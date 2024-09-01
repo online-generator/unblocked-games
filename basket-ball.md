@@ -11,6 +11,8 @@ embedUrl: "https://basketandball.github.io/"
 Keywords: sport games online, sport games free download, sport games for kids, sports games free, basket and ball, basket and ball unblocked, basket and ball 2, basket and ball download, basket and ball extension, basket and ball poki, basket and ball cool math games, basket and ball chrome web store, basket and ball logiciel
 ---
 
+![image](https://github.com/user-attachments/assets/48dee62a-4616-466b-953c-93cf3d7ca81a)
+
 **Looking for a fun and engaging online game to play?** Look no further than Basket & Ball! This thrilling game puts you in the driver's seat as you try to score as many baskets as possible.  
 
 **Simple but Addictive Gameplay:**
