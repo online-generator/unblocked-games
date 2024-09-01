@@ -11,6 +11,8 @@ embedUrl: "https://ubg77.github.io/game131022/adventure-drivers/"
 Keywords: Adventure Drivers, unblocked games, classroom6x, online game, car game, racing game, adventure game, poki, y8, crazy games, download, play now, free game
 ---
 
+![image](https://github.com/user-attachments/assets/6a806c53-5f6f-4568-9f99-e29e14fdcc2e)
+
 **Are you ready for an epic adventure behind the wheel?** 
 
 Adventure Drivers is a thrilling game that lets you experience the ultimate car adventure right from your computer.  No downloads needed, just pure, unadulterated fun! 
