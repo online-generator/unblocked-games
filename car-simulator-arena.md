@@ -10,6 +10,8 @@ tags: [mobile, car, racing]
 embedUrl: "https://ubg77.github.io/edit/car-simulator-arena/"
 ---
 
+![image](https://github.com/user-attachments/assets/6b366495-2bb6-48c6-903e-f1b0ec8be5a2)
+
 Have you ever wanted to be a race car driver?  Now you can, in Car Simulator Arena!  This fun online game lets you choose from different cars, race on cool tracks, and even customize your ride. 
 
 **What's so great about Car Simulator Arena?**
