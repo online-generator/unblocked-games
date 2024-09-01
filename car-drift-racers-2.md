@@ -11,6 +11,8 @@ embedUrl: "https://ubg77.github.io/edit/car-drift-racers-2/"
 Keywords: Car Drift Racers 2, Car Drift Game, Drift Racing, Car Drift Racing 2, Car Drift Racing PC, Car Drift Racing Game, Car Drift Racing 2 Poki, Unblocked Games, Classroom6x
 ---
 
+![image](https://github.com/user-attachments/assets/18c3d1b9-2a28-486d-83ff-9ed6b9f64cf1)
+
 **Broom Broooom:**
 
 Feel the thrill of drifting.  Car Drift Racers 2 isn't just a racing game, it's a high-octane experience that challenges you to master the art of controlled slides and stylish maneuvers. The perfect game for those who loves the feeling of speed, wants to hone their racing skills, or just enjoys a good adrenaline rush.
