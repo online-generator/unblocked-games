@@ -11,6 +11,8 @@ embedUrl: "https://webglmath.github.io/angry-gran-run/"
 Keywords: Angry Gran Run, Running Game, Unblocked Games, Classroom6x, Skill, Desktop
 ---
 
+![image](https://github.com/user-attachments/assets/fa7e6358-0845-4073-b947-eacae088cb37)
+
 **Ready for your inner gran?** 
 
 Angry Gran Run is a fun and fast-paced game that's perfect for a quick burst of excitement.  This game will put your reflexes to the test as you help a fiery granny navigate a series of challenging courses.  
