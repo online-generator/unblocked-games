@@ -1,4 +1,5 @@
 **3D Car Simulator: Unblocked Racing Fun for Your Classroom or Home!**
+
 Need a thrilling escape? 3D Car Simulator offers realistic racing action, unblocked and playable anywhere. Experience the thrill of the open road, perfect for desktops and mobile devices.
 [![image](https://github.com/user-attachments/assets/0c862b0e-85e4-4167-b99e-6476eca75457)](https://online-generator.github.io/unblockedgames/3D-Car-Simulator-Unblocked-game/)
 
@@ -6,7 +7,8 @@ Need a thrilling escape? 3D Car Simulator offers realistic racing action, unbloc
 
 **Buckle Up and Race: 3D Car Simulator - Unblocked and Ready to Go!**
 
-**Ready to hit the gas?** 3D Car Simulator is your chance to experience the adrenaline rush of high-speed racing, all from the comfort of your computer or phone. This awesome game is unblocked, meaning you can play it at school, at home, or anywhere with an internet connection.  
+**Ready to hit the gas?** 
+3D Car Simulator is your chance to experience the adrenaline rush of high-speed racing, all from the comfort of your computer or phone. This awesome game is unblocked, meaning you can play it at school, at home, or anywhere with an internet connection.  
 
 **What Makes 3D Car Simulator So Cool?**
 
