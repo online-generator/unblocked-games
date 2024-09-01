@@ -10,6 +10,8 @@ tags: [idle]
 embedUrl: "https://webglmath.github.io/cookie-clicker/"
 ---
 
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+
 **you're searching for any enjoyable games to play? Right?**  Well, you've come to the right place!  Let's talk about Cookie Clicker, a game that's  SO simple, you might just laugh, but SO addictive, you might just forget to eat.   Seriously, you've been warned! 😜 
 
 Cookie Clicker is all about... you guessed it, cookies!  You click and click and click to make cookies.   The more you click, the more cookies you get.   Then you use those cookies to buy upgrades, like cursors that click for you, or grandmas who bake cookies faster than you can say "sugar rush!" 👵 
