@@ -1,16 +1,10 @@
----
-title: "Burnin' Rubber 5 XS: Unblocked Fun for Your Next Break!"
-title: "Burnin-Rubber-5-Xs-unblocked"
-gametitle: "Burnin Rubber 5 Xs"
-date: 2024-08-29T20:36:33.896646
-description: "burn rubber and race with Burnin' Rubber 5 XS! This unblocked racing game offers hours of fun with its gameplay, customizable cars, and challenging levels. Play now for free! No downloads!!!"
-#draft: true
-image: "img/burnin-rubber-5-xs/logo.webp"
-tags: [shooting, racing]
-embedUrl: "https://webglmath.github.io/burnin-rubber-5-xs/"
----
+Burnin' Rubber 5 XS: Unblocked Fun for Your Next Break!
 
-![image](https://github.com/user-attachments/assets/6fe39a2a-6d38-4950-ba8f-a380f542d36c)
+burn rubber and race with Burnin' Rubber 5 XS! This unblocked racing game offers hours of fun with its gameplay, customizable cars, and challenging levels. Play now for free! No downloads!!!
+
+
+[![image](https://github.com/user-attachments/assets/59d1c8f6-77e7-4137-bad0-8974d5eb9ce5)](https://online-generator.github.io/unblockedgames/burnin-rubber-5-xs-unblocked/)
+[![image](https://github.com/user-attachments/assets/6fe39a2a-6d38-4950-ba8f-a380f542d36c)](https://online-generator.github.io/unblockedgames/burnin-rubber-5-xs-unblocked/)
 
 **Burnin' Rubber 5 XS** is a wildly popular racing game available on **unblocked games** sites like **classroom6x**.  It's a favorite for school breaks or anyone wanting a quick adrenaline rush. This game is all about  **racing**,  **shooting**, and  **driving** to victory.
 
