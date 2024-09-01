@@ -1,16 +1,10 @@
----
-title: "Color Tunnel 2: A Wild Ride Through Colors Again! 🌈"
-url: "Color-Tunnel-2-unblocked"
-gametitle: "Color Tunnel 2"
-date: 2024-08-29T20:36:33.896646
-description: "Enjoy a colorful adventure! Color Tunnel 2 is a fun and challenging running game where you navigate through spinning tunnels."
-#draft: true
-image: "img/color-tunnel-2/logo.jpeg"
-tags: [skill]
-embedUrl: "https://colortunnelunblocked.github.io/2/"
----
+**Color Tunnel 2: A Wild Ride Through Colors Again! 🌈**
 
-![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+Enjoy a colorful adventure! Color Tunnel 2 is a fun and challenging running game where you navigate through spinning tunnels.
+
+[![image](https://github.com/user-attachments/assets/c204c280-dd25-47e2-9b3f-757727dd0192)](https://online-generator.github.io/unblockedgames/Color-Tunnel-2-unblocked/)
+
+[![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)](https://online-generator.github.io/unblockedgames/Color-Tunnel-2-unblocked/)
 
 **So, you're looking for a  fun  game to play? 🤔  Well, let me tell you about Color Tunnel 2! It's, like, a super cool  game that will get your heart racing, and your fingers tapping!  🏃‍♀️  🏃‍♂️**
 
