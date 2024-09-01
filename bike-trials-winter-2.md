@@ -10,6 +10,8 @@ tags: [driving, motorbike]
 embedUrl: "https://ubg77.github.io/edit/bike-trials-winter-2/"
 ---
 
+![image](https://github.com/user-attachments/assets/5201041a-7a9f-4052-968b-f52468f1e4e1)
+
 **Are you ready for some winter thrills?** ❄️  Then buckle up and get ready for **Bike Trials Winter 2**! This action-packed game puts you in the driver's seat of a powerful motorcycle, ready to tackle snow-covered trails and heart-stopping jumps. 
 
 **Forget boring classroom days!**  **Bike Trials Winter 2** is perfect for those times when you need a quick escape.  It's an **unblocked game** that you can play right in your browser, making it ideal for school, work, or just a quick break. 
