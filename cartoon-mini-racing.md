@@ -10,6 +10,7 @@ tags: [mobile, car, racing]
 embedUrl: "https://ubg77.github.io/edit/cartoon-mini-racing/"
 ---
 
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
 **So, you're looking for a fun, fast, and super easy game to play? Well, you've come to the right place!**  🎉
 
 **Cartoon Mini Racing** is an awesome, little racing game. It's all about fast cars, cool tracks, and, well, racing! 🏎️
