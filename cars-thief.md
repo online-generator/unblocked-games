@@ -9,6 +9,7 @@ image: "img/cars-thief/logo.webp"
 tags: [driving, motorbike]
 embedUrl: "https://ubg77.github.io/edit/cars-thief/"
 ---
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
 
 So, um, you know how sometimes, school can be a little... *boring?*  😴  Maybe you just need a little break,  a little escape from all the math problems and history dates.  Well, guess what?  You're in luck! 🎉 
 
