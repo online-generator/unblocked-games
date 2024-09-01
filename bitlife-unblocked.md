@@ -1,4 +1,4 @@
-BitLife Unblocked: The Ultimate Guide game for Beginners and Experts
+**BitLife Unblocked: The Ultimate Guide game for Beginners and Experts**
 
 Discover the secrets of BitLife Unblocked, a genious life simulator. Explore tips, tricks, and cheats to master the game and live your wildest dreams. Play now for free!
 
