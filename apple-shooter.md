@@ -11,6 +11,8 @@ embedUrl: "https://appleshooterunblocked.github.io/"
 Keywords: unblocked games, classroom6x, Apple Shooter, shooting game, online shooting games, pc gun shooting game, shooting games download, gun games, shooting games for kids, shooting games io, shooting games for android
 ---
 
+![image](https://github.com/user-attachments/assets/19d47732-c32c-43a9-ae16-ed428bbeb2b6)
+
 **Get Ready to Aim and Fire!**
 
 Tired of the same old boring games?  Looking for something exciting and fast-paced?  Look no further than **Apple Shooter**, an unblocked online game that lets you unleash your inner sharpshooter! 
