@@ -1,16 +1,10 @@
----
-title: "Cartoon Mini Racing: Roll to Race! 🚗💨"
-url: "Cartoon-Mini-Racing"
-gametitle: "Cartoon Mini Racing"
-date: 2024-08-29T20:36:33.896646
-description: "Cartoon Mini Racing is a fun and easy racing game that you can play on your computer, tablet, or phone. Race against your friends online, choose from different cars and tracks, and have for some serious fun! Play now!"
-#draft: true
-image: "img/cartoon-mini-racing/logo.webp"
-tags: [mobile, car, racing]
-embedUrl: "https://ubg77.github.io/edit/cartoon-mini-racing/"
----
+**Cartoon Mini Racing: Roll to Race! 🚗💨**
 
-![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+artoon Mini Racing is a fun and easy racing game that you can play on your computer, tablet, or phone. Race against your friends online, choose from different cars and tracks, and have for some serious fun! Play now!
+
+[![image](https://github.com/user-attachments/assets/d1612b84-715e-438b-ae37-ecd233f2da39)](https://online-generator.github.io/unblockedgames/Cartoon-Mini-Racing/)
+
+[![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)](https://online-generator.github.io/unblockedgames/Cartoon-Mini-Racing/)
 **So, you're looking for a fun, fast, and super easy game to play? Well, you've come to the right place!**  🎉
 
 **Cartoon Mini Racing** is an awesome, little racing game. It's all about fast cars, cool tracks, and, well, racing! 🏎️
