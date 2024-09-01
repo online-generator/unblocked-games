@@ -45,6 +45,5 @@ Whether you're looking for a quick pick-me-up during a study break, or a fun way
 
 **Ready to take flight?**  Go ahead and give Burrito Bison: Launcha Libre a try! You won't regret it. 
 
-Keywords: [Burrito Bison: Launcha Libre Game, Running Game, Runninggame, Running Games, RunningGames, running game online, running game with keyboard, running game download free, running game meaning, burrito bison: launcha libre kongregate, burrito bison: launcha libre unblocked, burrito bison: launcha libre online, burrito bison launcha libre snokido, burrito bison: launcha libre wiki, burrito bison play, burrito bison: launcha libre unblocked hacked, burrito bison\: launcha libre cheats]
----
+## Keywords: Burrito Bison: Launcha Libre Game, Running Game, Runninggame, Running Games, RunningGames, running game online, running game with keyboard, running game download free, running game meaning, burrito bison: launcha libre kongregate, burrito bison: launcha libre unblocked, burrito bison: launcha libre online, burrito bison launcha libre snokido, burrito bison: launcha libre wiki, burrito bison play, burrito bison: launcha libre unblocked hacked, burrito bison\: launcha libre cheats
 
