@@ -11,6 +11,8 @@ embedUrl: "https://ubg77.github.io/edit/3d-moto-simulator-2/"
 Keywords: 3D Moto Simulator 2, 3D Moto Simulator, 3D Moto Game, Moto Simulator, Moto Simulator Online, Unblocked Games, Classroom6x, Driving Games, Motorbike Games, Online Games, Free Games
 ---
 
+![image](https://github.com/user-attachments/assets/b45cdc42-77df-4180-933b-9bb6c30816bf)
+
 **Get ready to hit the gas and feel the wind in your hair with 3D Moto Simulator 2, a thrilling online game that puts you in the driver's seat of powerful motorbikes!** 
 
 This game is perfect for anyone who loves the adrenaline rush of racing or simply wants to experience the thrill of riding a motorbike. With stunning 3D graphics, realistic physics, and a variety of challenging tracks, 3D Moto Simulator 2 offers hours of immersive gameplay.  
