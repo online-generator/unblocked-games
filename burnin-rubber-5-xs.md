@@ -10,6 +10,8 @@ tags: [shooting, racing]
 embedUrl: "https://webglmath.github.io/burnin-rubber-5-xs/"
 ---
 
+![image](https://github.com/user-attachments/assets/6fe39a2a-6d38-4950-ba8f-a380f542d36c)
+
 **Burnin' Rubber 5 XS** is a wildly popular racing game available on **unblocked games** sites like **classroom6x**.  It's a favorite for school breaks or anyone wanting a quick adrenaline rush. This game is all about  **racing**,  **shooting**, and  **driving** to victory.
 
 **What's the Hype About Burnin' Rubber 5 XS?**
