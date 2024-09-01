@@ -14,19 +14,21 @@ We've got something for everyone, um, really.  Let's see, we have:
 
 [Unblocked Games](https://online-generator.github.io/unblockedgames/)
 
-* **Adventure Games:**  Want to go on a quest?  We've got tons of adventure games that will take you on wild journeys!  You can explore jungles, solve mysteries, and even fight dragons! 🐉 [Adventure Games])https://online-generator.github.io/unblockedgames/adventure/)
+* **Adventure Games:**  Want to go on a quest?  We've got tons of adventure games that will take you on wild journeys!  You can explore jungles, solve mysteries, and even fight dragons! 🐉 [Adventure Games](https://online-generator.github.io/unblockedgames/adventure/)
 
 * **Puzzle Games:**  Do you like to think outside the box?  Our puzzle games will challenge your mind and keep you entertained for hours.  Can you figure out all the riddles? 🧠 
 
 * **Strategy Games:**  Are you a master planner?  Our strategy games will put your skills to the test. You'll have to think carefully and make smart decisions to win! 🤔
 
-* **Shooting Games:**  Want to blast some bad guys?  Our shooting games are perfect for letting off some steam.  You can choose from a variety of weapons and fight your way to victory! 🔫 
+* **Shooting Games:**  Want to blast some bad guys?  Our shooting games are perfect for letting off some steam.  You can choose from a variety of weapons and fight your way to victory! 🔫 [Unblocked shooting Games](https://online-generator.github.io/unblockedgames/shooting/)
 
 * **Skill Games:**  Want to show off your skills?  Our skill games will let you prove you're the best.  Can you hit the target, solve the puzzle, or beat the clock? 🎯 
 
 * **Car & Bike Games:**  Love speed and racing? We've got all kinds of cool car and bike games.  You can race against your friends, or even drive off-road and explore new areas!  🏎️ 
-
-* **Sports Games:**  Sports fan?  You're in the right place!  We've got all the major sports, like basketball, football, soccer, and more!  You can play as your favorite team or even create your own!  ⚽️ 🏀 🏈 
+[Unblocked car Games](https://online-generator.github.io/unblockedgames/car/)
+[Unblocked bike Games](https://online-generator.github.io/unblockedgames/bike/)
+* **Sports Games:**  Sports fan?  You're in the right place!  We've got all the major sports, like basketball, football, soccer, and more!  You can play as your favorite team or even create your own!  ⚽️ 🏀 🏈
+* [Unblocked sports Games](https://online-generator.github.io/unblockedgames/sport/)
 
 * **Kids Games:**  We've got tons of fun and educational games for kids of all ages.  You can learn about animals, letters, numbers, and more while having a blast!  🧒👧 
 
