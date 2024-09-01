@@ -11,6 +11,8 @@ embedUrl: "https://circloounblocked.github.io/2/"
 Keywords: CirCloO 2 Game, puzzle games examples, puzzle game for kids, puzzle definition, jigsaw puzzle, puzzle games for adults, puzzle games wikipedia, puzzle games online, jigsaw puzzle games, best puzzle games, circloo 2, circloo 3, circloo engineering, circloo 1, circloo unblocked, circloo poki, circloo 2 engineering, circloo 2 unblocked, circloo unblocked games
 ---
 
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+
 **Ready for a brain-tickling challenge?**  Then you gotta try CirCloO 2!  It's a wild ride through the world of puzzles, and it's totally unblocked, so you can play it anywhere!  😁 
 
 **What's CirCloO 2 all about?**  Well, it's basically like a super cool jigsaw puzzle but, uh, way more awesome!  You get these awesome shapes, and you gotta fit them together perfectly.  And trust me, it's not as easy as it sounds!  You'll be scratching your head and thinking, "How did they even make this puzzle?"  🤔
