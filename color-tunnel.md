@@ -11,6 +11,8 @@ embedUrl: "https://colortunnelunblocked.github.io/"
 Keywords: Color Tunnel Game, Running Game, Runninggame, Running Games, RunningGames, running game online, running game with keyboard, running game download free, running game, running game meaning
 ---
 
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+
 Hey there, game lovers!  So, you're looking for a fun and challenging game to play, right? Well, look no further than **Color Tunnel!** It's like, a super simple but addictive running game. 
 
 **What's it all about?** 
