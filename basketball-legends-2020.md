@@ -11,6 +11,8 @@ embedUrl: "https://basketballlegendsunblocked.github.io/"
 Keywords: sport games online, sport games free download, sport games for kids, sports games free, basketball legends 2020 unblocked, basketball legends unblocked, basketball legends 2020 poki, basketball legends 2021, basketball legends 2020 wtf, basketball legends 2019, basketball legends 2020 unblocked 66, y8 basketball legends 2020
 ---
 
+![image](https://github.com/user-attachments/assets/46b5c548-09e7-449e-aec9-4f010778ae68)
+
 Are you ready to feel the thrill of the court? Then **Basketball Legends 2020** is the game for you! This awesome online basketball game lets you experience the fast-paced action of a real basketball match, all from the comfort of your computer. 
 
 **No Download Required – Just Play!**
