@@ -1,17 +1,13 @@
----
-title: "Sweet World of Candy Jump: Unblocked Fun for Everyone!"
-url: "Candy-Jump"
-gametitle: "Candy Jump"
-date: 2024-08-29T20:36:33.896646
-description: "Take a sugary challenge! Candy Jump is a fun, unblocked game perfect for all ages. Test your reflexes and jump your way to the top in this addictive puzzle game. Play now and see how high you can climb!"
-#draft: true
-image: "img/candy-jump/logo.png"
-tags: [skill, popular]
-embedUrl: "https://webglmath.github.io/candy-jump/"
-Keywords: Candy Jump Game, puzzle games examples, puzzle game for kids, puzzle definition, jigsaw puzzle, puzzle games for adults, puzzle games wikipedia, puzzle games online, jigsaw puzzle games, best puzzle games, cool math games, candy jump world record, candy jump cool math games, candy jump unblocked, color jump, candy jump unblocked 66, candy jump world record 2022, coolmath color jump switch
----
+**Sweet World of Candy Jump: Unblocked Fun for Everyone!**
 
-![image](https://github.com/user-attachments/assets/69d7084c-6b2e-45b5-b252-65b71d6c1824)
+Take a sugary challenge! Candy Jump is a fun, unblocked game perfect for all ages. Test your reflexes and jump your way to the top in this addictive puzzle game. Play now and see how high you can climb!
+
+
+
+[![image](https://github.com/user-attachments/assets/ce1e973c-0d21-42f9-9bea-33aa9150b2a8)](https://online-generator.github.io/unblockedgames/Candy-Jump/)
+
+
+[![image](https://github.com/user-attachments/assets/69d7084c-6b2e-45b5-b252-65b71d6c1824)](https://online-generator.github.io/unblockedgames/Candy-Jump/)
 
 **Introduction:**
 
@@ -63,4 +59,7 @@ Candy Jump isn't just a fun way to pass the time – it can also be a learning e
 
 
 Candy Jump is an excellent choice. With its simple gameplay, addictive nature, and colorful visuals, it's a game that's sure to provide hours of fun. So, jump into the world of Candy Jump and see how high you can climb! 
+
+## Keywords: Candy Jump Game, puzzle games examples, puzzle game for kids, puzzle definition, jigsaw puzzle, puzzle games for adults, puzzle games wikipedia, puzzle games online, jigsaw puzzle games, best puzzle games, cool math games, candy jump world record, candy jump cool math games, candy jump unblocked, color jump, candy jump unblocked 66, candy jump world record 2022, coolmath color jump switch
+
 
