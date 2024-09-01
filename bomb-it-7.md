@@ -11,6 +11,8 @@ embedUrl: "https://bombitunblocked.github.io/7/"
 Keywords: Bomb IT 7 Game, Adventure Games, AdventureGames, Adventure Games Pc, AdventureGamesPc, Adventure Games Online, AdventureGamesOnline, Adventure Games Free, AdventureGamesFree, Bomb IT 7 unblocked, Bomb IT 7 game online, Bomb IT 7 download, Bomb IT 7 free, now.gg, Bomb IT 7 free play, Bomb IT 7 gameplay, Bomb IT 7 full game, Bomb IT 7 pc, classroom6x
 ---
 
+![image](https://github.com/user-attachments/assets/7664a815-b187-4c4e-878b-ce3746b8956e)
+
 **Are you looking for an exciting and fast-paced game to play online?**  Look no further than Bomb IT 7! This action-packed game is perfect for classrooms, home computers, or any time you need a quick and fun break.  
 
 **What is Bomb IT 7?**
