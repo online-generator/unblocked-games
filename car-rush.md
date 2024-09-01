@@ -1,16 +1,10 @@
----
-title: "Gear Up for Car Rush: Fun That's Easy to Play!"
-gametitle: "Car-Rush-unblocked"
-gametitle: "Car Rush"
-date: 2024-08-29T20:36:33.896646
-description: "Start the engine revving for Car Rush! This fast-paced, unblocked car racing game is available for desktops, mobiles, even in classroom. Challenge yourself with multiplication, play against friends, or just enjoy the thrill of the race!"
-#draft: true
-image: "img/car-rush/logo.webp"
-tags: [mobile, car, racing]
-embedUrl: "https://webglmath.github.io/car-rush/"
----
+**Gear Up for Car Rush: Fun That's Easy to Play!**
 
-![image](https://github.com/user-attachments/assets/5b7e4b1b-b0eb-476d-8fa7-f15059ec7018)
+Start the engine revving for Car Rush! This fast-paced, unblocked car racing game is available for desktops, mobiles, even in classroom. Challenge yourself with multiplication, play against friends, or just enjoy the thrill of the race!
+
+[![image](https://github.com/user-attachments/assets/070f369a-35e3-4a28-9eda-005a52ccaf3f)](https://online-generator.github.io/unblockedgames/gear-up-for-car-rush-fun-thats-easy-to-play/)
+
+[![image](https://github.com/user-attachments/assets/5b7e4b1b-b0eb-476d-8fa7-f15059ec7018)](https://online-generator.github.io/unblockedgames/gear-up-for-car-rush-fun-thats-easy-to-play/)
 
 **Ready to race?**  Car Rush is a game that's all about speed and skill.  This unblocked gem is perfect for players of all ages and skill levels, making it a perfect choice for classrooms,  homes, or anywhere you can get your hands on a device! 
 
