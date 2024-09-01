@@ -1,17 +1,12 @@
 ---
 title: "Angry Gran Run: the Fury on the Run!"
-url: "Angry-Gran-Run-unblocked"
-gametitle: "Angry Gran Run"
-date: 2024-08-29T20:36:33.896646
-description: "Get ready to run, jump, and slide your way to victory in Angry Gran Run! This exciting game lets you control a grumpy gran as she dashes through obstacles and collects coins. Play it now for free on your computer!"
-#draft: true
-image: "img/angry-gran-run/logo.png"
-tags: [skill, popular]
-embedUrl: "https://webglmath.github.io/angry-gran-run/"
-Keywords: Angry Gran Run, Running Game, Unblocked Games, Classroom6x, Skill, Desktop
----
 
-![image](https://github.com/user-attachments/assets/fa7e6358-0845-4073-b947-eacae088cb37)
+Get ready to run, jump, and slide your way to victory in Angry Gran Run! This exciting game lets you control a grumpy gran as she dashes through obstacles and collects coins. Play it now for free on your computer!
+
+
+[![image](https://github.com/user-attachments/assets/3657d7e7-17ae-4692-9e8e-1dc332bc3555)](https://online-generator.github.io/unblockedgames/Angry-Gran-Run-unblocked/)
+
+[![image](https://github.com/user-attachments/assets/fa7e6358-0845-4073-b947-eacae088cb37)](https://online-generator.github.io/unblockedgames/Angry-Gran-Run-unblocked/)
 
 **Ready for your inner gran?** 
 
@@ -37,5 +32,8 @@ You can play Angry Gran Run for free on your computer!  It's an unblocked game, 
 If you enjoy Angry Gran Run, you might also like other popular unblocked games like "Among Us," "Classroom6x," and many more. 
 
 **Ready to join the fun?**  Click the link below and start running today!
+
+Keywords: Angry Gran Run, Running Game, Unblocked Games, Classroom6x, Skill, Desktop
+
 
 
