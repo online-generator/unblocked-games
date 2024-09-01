@@ -1,16 +1,12 @@
----
-title: "Ready to Shred! Bike Trials Winter 2 is Here! ❄️🏍️"
-url: "Bike-Trials-Winter-2-unblocked"
-gametitle: "Bike Trials Winter 2"
-date: 2024-08-29T20:36:33.896646
-description: "Challenge yourself with Bike Trials Winter 2, a thrilling motorcycle game. Conquer snowy trails, master tricky jumps, and test your skills in this challenging and fun unblocked game!"
-#draft: true
-image: "img/bike-trials-winter-2/logo.webp"
-tags: [driving, motorbike]
-embedUrl: "https://ubg77.github.io/edit/bike-trials-winter-2/"
----
+**Ready to Shred! Bike Trials Winter 2 is Here! ❄️🏍️"**
 
-![image](https://github.com/user-attachments/assets/5201041a-7a9f-4052-968b-f52468f1e4e1)
+
+Challenge yourself with Bike Trials Winter 2, a thrilling motorcycle game. Conquer snowy trails, master tricky jumps, and test your skills in this challenging and fun unblocked game!
+
+[![image](https://github.com/user-attachments/assets/df1d97d6-de38-41d1-a388-37443cf0ef59)](https://online-generator.github.io/unblockedgames/Bike-Trials-Winter-2-unblocked/)
+
+
+[![image](https://github.com/user-attachments/assets/5201041a-7a9f-4052-968b-f52468f1e4e1)](https://online-generator.github.io/unblockedgames/Bike-Trials-Winter-2-unblocked/)
 
 **Are you ready for some winter thrills?** ❄️  Then buckle up and get ready for **Bike Trials Winter 2**! This action-packed game puts you in the driver's seat of a powerful motorcycle, ready to tackle snow-covered trails and heart-stopping jumps. 
 
