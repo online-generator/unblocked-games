@@ -1,15 +1,11 @@
----
-title: "🚗💨 Cars Thief: The Ultimate Classroom Fun (Unblocked, Of Course!)"
-url: "Cars-Thief"
-gametitle: "Cars Thief"
-date: 2024-08-29T20:36:33.896646
-description: "Ever wanted to steal cars? 😜 Cars Thief is a fun, unblocked game you can play right in your browser. Drive, race, and maybe even escape the police (LOL)! 🚗💨"
-#draft: true
-image: "img/cars-thief/logo.webp"
-tags: [driving, motorbike]
-embedUrl: "https://ubg77.github.io/edit/cars-thief/"
----
-![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+**🚗💨 Cars Thief: The Ultimate Classroom Fun (Unblocked, Of Course!)**
+
+Ever wanted to steal cars? 😜 Cars Thief is a fun, unblocked game you can play right in your browser. Drive, race, and maybe even escape the police (LOL)! 🚗💨
+
+
+[![image](https://github.com/user-attachments/assets/f1b03f02-be44-4f98-82a1-9763a0550594)](https://online-generator.github.io/unblockedgames/Cars-Thief/)
+
+[![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)](https://online-generator.github.io/unblockedgames/Cars-Thief/)
 
 So, um, you know how sometimes, school can be a little... *boring?*  😴  Maybe you just need a little break,  a little escape from all the math problems and history dates.  Well, guess what?  You're in luck! 🎉 
 
