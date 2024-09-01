@@ -11,6 +11,8 @@ embedUrl: "https://webglmath.github.io/blumgi-rocket/"
 Keywords: Burnin Rubber, unblocked games, classroom6x, Racing, Shooting, Desktop, Burnin' Rubber 5, Burnin' Rubber 4, Burnin' Rubber 1, Burnin' Rubber 3, Burnin' Rubber 2, Burnin' Rubber game, Burnin' Rubber poki
 ---
 
+![image](https://github.com/user-attachments/assets/8847ce3b-f10a-4c5f-9aa8-8e98f472e1dd)
+
 Are you tired of the same old boring games? Do you crave the thrill of the open road, the roar of the engine, and the satisfaction of leaving your opponents in the dust? Then buckle up, because Burnin' Rubber is about to take you on a wild ride! 
 
 This exciting game combines the adrenaline-pumping action of racing with the satisfying strategy of shooting, all in a sleek and accessible desktop environment. Looking for some fun, Burnin' Rubber is for you then. 
