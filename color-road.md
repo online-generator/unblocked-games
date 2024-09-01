@@ -1,5 +1,5 @@
 ---
-title: "Color Road: The Running Game That\'ll Make You Go 'Whoa!'"
+title: "Color Road: The Running Game That'll Make You Go 'Whoa!'"
 url: "Color-Road-unblocked"
 gametitle: "Color Road"
 date: 2024-08-29T20:36:33.896646
@@ -10,6 +10,8 @@ tags: [skill]
 embedUrl: "https://webglmath.github.io/color-road/"
 Keywords: Color Road Game, Running Game, Runninggame, Running Games, RunningGames, running game online, running game with keyboard, running game download free, running game, running game meaning
 ---
+
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
 
 So, you're looking for a fun game to play, right? 😜 You want something that's easy to pick up but hard to put down?  Well, you've come to the right place!  Let me tell you all about **Color Road**, a totally awesome running game that's sure to keep you entertained for hours! 
 
