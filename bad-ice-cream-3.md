@@ -11,6 +11,7 @@ embedUrl: "https://badicecreamunblocked.github.io/3/"
 Keywords: Bad Ice Cream 3 Game, Adventure Games, AdventureGames, Adventure Games Pc, AdventureGamesPc, Adventure Games Online, AdventureGamesOnline, Adventure Games Free, AdventureGamesFree
 ---
 
+![image](https://github.com/user-attachments/assets/c233d15b-af81-4af6-847f-4fd45837ae2a)
 
 **Ready for a delicious adventure?** 
 
