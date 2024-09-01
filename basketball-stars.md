@@ -1,17 +1,9 @@
----
-title: "🏀 Dunk Your Way to Victory with Basketball Stars! 🏀"
-url: "Basketball-Stars-unblocked-game"
-gametitle: "Basketball Stars"
-date: 2024-08-29T20:36:33.896646
-description: "Slam dunks with Basketball Stars, a thrilling online basketball game perfect for all ages. Play for free and show off your skills!"
-#draft: true
-image: "img/basketball-stars/logo.png"
-tags: [sport]
-embedUrl: "https://basketballstarsunblocked.github.io/"
-Keywords: sport games online, sport games free download, sport games for kids, sports games free, basketball stars y8, basketball stars unblocked, basketball stars poki, basketball stars 2021, basketball stars 2020, basketball stars online, basketball stars unblocked 66, basketball stars 3
----
+**🏀 Dunk Your Way to Victory with Basketball Stars! 🏀**
+Slam dunks with Basketball Stars, a thrilling online basketball game perfect for all ages. Play for free and show off your skills!
 
-![image](https://github.com/user-attachments/assets/918cc422-72cf-4f03-b710-d54b42be385a)
+[![image](https://github.com/user-attachments/assets/564e165e-833c-4406-bd6e-e82ef71053fa)](https://online-generator.github.io/unblockedgames/Basketball-Stars-unblocked-game/)
+
+[![image](https://github.com/user-attachments/assets/918cc422-72cf-4f03-b710-d54b42be385a)](https://online-generator.github.io/unblockedgames/Basketball-Stars-unblocked-game/)
 
 **LeBron with Basketball Stars!** 
 
@@ -39,3 +31,4 @@ Basketball Stars is available online at a bunch of popular game sites, including
 
 **Looking for even more awesome basketball games?**  Check out the [our game site](https://online-generator.github.io/unblockedgames/) for tons of other amazing sports games.  You'll find games for all ages and skill levels! 
 
+Keywords: sport games online, sport games free download, sport games for kids, sports games free, basketball stars y8, basketball stars unblocked, basketball stars poki, basketball stars 2021, basketball stars 2020, basketball stars online, basketball stars unblocked 66, basketball stars 3
