@@ -11,6 +11,8 @@ embedUrl: "https://webglmath.github.io/blumgi-rocket/"
 Keywords: Blumgi Rocket, unblocked games, classroom6x, Car Racing, Desktop, Blumgi Rocket Github, Blumgi Rocket Download, Blumgi Rocket Apk, Blumgi Rocket Unblocked, Blumgi Rocket Full Screen, How Many Levels Are in Blumgi Rocket, Blumgi Basketball, Blumgi Castle.
 ---
 
+![image](https://github.com/user-attachments/assets/cfbe8aa6-4fb3-410d-b975-1a5b5be1b14d)
+
 **Get ready for a cosmic adventure in Blumgi Rocket, the unblocked game that's taking the internet by storm!** 
 
 **Race against gravity?** Blumgi Rocket is an exhilarating game where you take control of a rocket ship and soar through the vastness of space. Navigate through challenging levels, collect power-ups, and compete against the clock to reach the finish line. But be careful, there are obstacles and dangers lurking around every corner!
