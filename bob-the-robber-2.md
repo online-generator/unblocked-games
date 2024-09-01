@@ -11,6 +11,8 @@ embedUrl: "https://bobtherobberunblocked.github.io/2/"
 Keywords: Bob The Robber 2 Game, Adventure Games, AdventureGames, Adventure Games Pc, AdventureGamesPc, Adventure Games Online, AdventureGamesOnline, Adventure Games Free, AdventureGamesFree, Bob The Robber 2 unblocked, Bob The Robber 2 game online, Bob The Robber 2 download, Bob The Robber 2 free, now.gg, Bob The Robber 2 free play, Bob The Robber 2 gameplay, Bob The Robber 2 full game, Bob The Robber 2 pc, Classroom6x, Unblocked Games
 ---
 
+![image](https://github.com/user-attachments/assets/0bacd57b-345a-409c-b453-4bad71bca017)
+
 **Bob the Robber 2: a thrilling adventure?** 
 
 Bob the Robber 2 is a popular online game that lets you step into the shoes of a cunning thief.  This adventure game puts you in the middle of action-packed heists, where you'll have to outsmart guards, solve puzzles, and collect valuable loot.  Whether you're playing at school, at home, or on your mobile device, Bob the Robber 2 is sure to keep you entertained.
