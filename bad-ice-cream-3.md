@@ -4,7 +4,7 @@
 Enjoy frosty fun of Bad Ice Cream 3! This unblocked adventure game lets you conquer levels and collect delicious toppings - all without needing to download. Play Bad Ice Cream 3 online for free now!
 
 
-https://online-generator.github.io/unblockedgames/bad-ice-cream-3-unblocked/
+[![image](https://github.com/user-attachments/assets/2eb0dfb5-1761-449d-af40-7b0f0dfd4c53)](https://online-generator.github.io/unblockedgames/bad-ice-cream-3-unblocked/)
 
 [![image](https://github.com/user-attachments/assets/c233d15b-af81-4af6-847f-4fd45837ae2a)](https://online-generator.github.io/unblockedgames/bad-ice-cream-3-unblocked/)
 
