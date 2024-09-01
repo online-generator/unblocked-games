@@ -10,6 +10,8 @@ tags: [adventure, mobile]
 embedUrl: "https://webglmath.github.io/bob-the-robber-4/"
 ---
 
+![image](https://github.com/user-attachments/assets/2c36b303-5385-4d03-96a1-a67f65046f2e)
+
 **Looters?** buckle up for Bob the Robber 4!  This popular game has taken the internet by storm, and now you can play it right here on our website!
 
 **What's Bob the Robber 4 all about?**
