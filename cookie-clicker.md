@@ -1,16 +1,10 @@
----
-title: "Cookie Clicker: The Sweetest Time-Waster You'll Ever Play 🍪"
-title: "Cookie-Clicker-Unblocked"
-gametitle: "Cookie Clicker"
-date: 2024-08-29T20:36:33.896646
-description: "Want a fun and totally addicting game? Cookie Clicker is a super simple but awesome game where you click cookies, get more cookies, and build a cookie empire! It's perfect for when you're bored, and it's totally free to play!"
-#draft: true
-image: "img/cookie-clicker/logo.png"
-tags: [idle]
-embedUrl: "https://webglmath.github.io/cookie-clicker/"
----
+**Cookie Clicker: The Sweetest Time-Waster You'll Ever Play 🍪**
 
-![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+tWant a fun and totally addicting game? Cookie Clicker is a super simple but awesome game where you click cookies, get more cookies, and build a cookie empire! It's perfect for when you're bored, and it's totally free to play!
+
+[![image](https://github.com/user-attachments/assets/e3db1954-6f28-4035-b16c-db5adef3ca0e)](https://online-generator.github.io/unblockedgames/cookie-clicker-unblocked/)
+
+[![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)](https://online-generator.github.io/unblockedgames/cookie-clicker-unblocked/)
 
 **you're searching for any enjoyable games to play? Right?**  Well, you've come to the right place!  Let's talk about Cookie Clicker, a game that's  SO simple, you might just laugh, but SO addictive, you might just forget to eat.   Seriously, you've been warned! 😜 
 
