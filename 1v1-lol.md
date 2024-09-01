@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/b9e5c097-6d8e-4a9f-b366-37e305ed1007)(https://online-generator.github.io/unblockedgames/1v1-LOL-Unblocked-game/)
+[![image](https://github.com/user-attachments/assets/b9e5c097-6d8e-4a9f-b366-37e305ed1007)](https://online-generator.github.io/unblockedgames/1v1-LOL-Unblocked-game/)
 
 **1v1.LOL Unblocked: Battle it Out in Thrilling 1v1 Action!**
 
