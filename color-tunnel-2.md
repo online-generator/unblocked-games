@@ -10,6 +10,8 @@ tags: [skill]
 embedUrl: "https://colortunnelunblocked.github.io/2/"
 ---
 
+![image](https://github.com/user-attachments/assets/743ba221-d973-417e-ae9b-00b257e985e3)
+
 **So, you're looking for a  fun  game to play? 🤔  Well, let me tell you about Color Tunnel 2! It's, like, a super cool  game that will get your heart racing, and your fingers tapping!  🏃‍♀️  🏃‍♂️**
 
 This game is all about, well,  running,  but  not just any running! You're running through these crazy, colorful tunnels that spin and twist all over the place.  😵  It's, like, a giant  kaleidoscope! 
